@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.1.0" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.example.book.LoginActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.layout.activity_main"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/layout/activity_main.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="77"
+            endColumn="16"
+            endOffset="2510"/>
+        <entry
+            name="model"
+            string="color[black(U),white(U),blue(U),gray(U),gray_text(U),light_gray(U),orange(U),green(U),red(U)],drawable[edit_text_bg(U),ic_book(U),ic_launcher_background(U),ic_launcher_foreground(U),ic_launcher_foreground_1(R)],id[btn_back(U),btn_add_book(U),btn_book_manage(U),btn_user_manage(U),ll_content(U),iv_cover(U),tv_title(U),tv_author(U),tv_publisher(U),tv_publish_date(U),tv_rating(U),tv_stock(U),tv_summary(U),ll_borrow_history(U),btn_date(U),btn_borrow(U),ll_book_list(U),tv_toast(U),ll_borrow_list(U),et_username(U),et_password(U),btn_login(U),tv_error(U),btn_books(D),btn_borrowed(D),tv_user_info(U),ll_admin_panel(U),btn_logout(U),et_search(U),btn_search(U),ll_results(U)],layout[activity_admin(U),activity_book_detail(U),activity_book_list(U),activity_borrow(U),activity_login(U),activity_main(D),activity_menu(U),activity_search(U)],mipmap[ic_launcher(U),ic_launcher_round(U)],string[app_name(U)],style[Theme_Book(U),Base_Theme_Book(U),Theme_Material3_DayNight_NoActionBar(R)],xml[data_extraction_rules(U),backup_rules(U)];c^d,31^9,35^b^c,36^b^c,38^39,39^3a;;;"/>
+    </map>
+
+</incidents>
