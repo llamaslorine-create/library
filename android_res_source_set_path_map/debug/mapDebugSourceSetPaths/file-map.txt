@@ -1,0 +1,7 @@
+com.example.book.app-pngs-0 D:\keshe_android\book\app\build\generated\res\pngs\debug
+com.example.book.app-updated_navigation_xml-1 D:\keshe_android\book\app\build\generated\updated_navigation_xml\debug
+com.example.book.app-packageDebugResources-2 D:\keshe_android\book\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.book.app-packageDebugResources-3 D:\keshe_android\book\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.book.app-debug-4 D:\keshe_android\book\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.book.app-debug-5 D:\keshe_android\book\app\src\debug\res
+com.example.book.app-main-6 D:\keshe_android\book\app\src\main\res

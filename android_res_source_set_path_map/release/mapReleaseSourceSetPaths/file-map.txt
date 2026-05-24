@@ -1,0 +1,7 @@
+com.example.book.app-pngs-0 D:\book\app\build\generated\res\pngs\release
+com.example.book.app-updated_navigation_xml-1 D:\book\app\build\generated\updated_navigation_xml\release
+com.example.book.app-packageReleaseResources-2 D:\book\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.book.app-packageReleaseResources-3 D:\book\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.book.app-release-4 D:\book\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.book.app-main-5 D:\book\app\src\main\res
+com.example.book.app-release-6 D:\book\app\src\release\res
