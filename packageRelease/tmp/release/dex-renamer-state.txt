@@ -1,0 +1,4 @@
+#Sun May 10 16:18:30 CST 2026
+base.0=D\:\\book\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
