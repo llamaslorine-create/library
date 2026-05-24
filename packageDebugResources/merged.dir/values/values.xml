@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#333333</color>
+    <color name="blue">#D4C4B0</color>
+    <color name="gray">#E8E2D9</color>
+    <color name="gray_text">#666666</color>
+    <color name="green">#A8B5A0</color>
+    <color name="light_gray">#F5F2EE</color>
+    <color name="orange">#C4A77D</color>
+    <color name="red">#D4A5A5</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">book</string>
+    <style name="Base.Theme.Book" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Book" parent="Base.Theme.Book"/>
+</resources>
